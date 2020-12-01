@@ -1,4 +1,4 @@
-class Test
+class helloworld
 {
 	public static void main(String[] args) {
 		System.out.println("This printed from java file....>! ");
